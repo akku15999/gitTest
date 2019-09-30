@@ -16,7 +16,8 @@ This is For Git and Github test for DSC summer program in which all the particip
   <li>Then <code>Commit</code> the changes and create a PR(Pull Request) to the DSC Repository</li>
 </ol>
 
-<b>Check this Article for help :)</b> [DigitalOcean Community Tutorias](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)
+<b>Check this Article for help :)</b> 
+[DigitalOcean Community Tutorias](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)
 ## Successful student in building Project will get chance to win:-
 * 🥇 Google Home Speaker
 * 🥇 Google Developer T-shirts
